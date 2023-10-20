@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @velizar-velikov
+- 👋 Hi, I’m Velizar Velikov
 - 👀 I’m interested in front-end web development.
 - 🌱 I’m currently learning HTML/CSS and JavaScript.
 - 📫 How to reach me :
