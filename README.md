@@ -1,8 +1,9 @@
 <img alt="cover photo gif" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif">
-<h1 align="center"> Hi👋, I’m Velizar!</h1><img align="right" alt="image" src="https://user-images.githubusercontent.com/74038190/240885348-491e3e44-11a0-487a-b07b-717f677bbe4a.gif">
-<h3 align="left">🔭I’m interested in front-end web development.</h3>
-<h3 align="left">⚡I’m currently learning HTML/CSS and JavaScript.</h3>
-<h3 align="left">👻Fun fact: I have a good humour❌</h3>
+<h1 align="center">Hi👋, I’m Velizar!</h1>
+<h3>🔭I’m interested in front-end web development.</h3>
+<h3>⚡I’m currently learning HTML/CSS and JavaScript.</h3>
+<h3>👻Fun fact: I have a good humour❌</h3>
+<img alt="image" src="https://user-images.githubusercontent.com/74038190/240885348-491e3e44-11a0-487a-b07b-717f677bbe4a.gif">
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/velizar.velikov.9/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/velizarvelikov/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/velizar-velikov-3b8389202/) 
